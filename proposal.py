@@ -134,38 +134,26 @@ st.markdown('''
     <tr>
         <th>Name</th>
         <th>Project Proposal</th>
-        <th>Midterm Report</th>
-        <th>Final Presentation</th>
     </tr>
     <tr>
         <td>Aparna Manoj</td>
-        <td>Presentation<br>Video Recording</td>
-        <td>TBD</td>
-        <td>TBD</td>
+        <td>Introduction<br>Presentation<br>Video Recording<br>Proposal Write-Up</td>
     </tr>
     <tr>
         <td>Benjamin Jiras</td>
-        <td>Proposal Write-Up<br>Note: Out Sick</td>
-        <td>TBD</td>
-        <td>TBD</td>
+        <td>Potential Results<br>Proposal Write-Up</td>
     </tr>
     <tr>
         <td>Nitin Chawla</td>
-        <td>Project Webpage Creation<br>Video Recording</td>
-        <td>TBD</td>
-        <td>TBD</td>
+        <td>Project Research<br>Gantt Chart<br>Proposal Write-Up</td>
     </tr>
     <tr>
         <td>Sarika Singh</td>
-        <td>Gantt Chart<br>Contribution Management</td>
-        <td>TBD</td>
-        <td>TBD</td>
+        <td>Gantt Chart<br>Data Sourcing<br>Project Research<br>Proposal Write-Up</td>
     </tr>
     <tr>
         <td>Yashasvini Pratyaqsha</td>
-        <td>Project Webpage Creation<br>Video Recording</td>
-        <td>TBD</td>
-        <td>TBD</td>
+        <td>Project Webpage Creation<br>Video Recording<br>Proposal Write-Up</td>
     </tr>
 </table>
 ''', unsafe_allow_html=True)
