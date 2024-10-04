@@ -23,7 +23,7 @@ such as the surprising correlation between diapers and beer found in a case stud
 </p> 
 <p class="justified-text">
 Instacart, a popular grocery ordering platform, has open-sourced their anonymized transactional data spanning 
-3 million grocery orders from more than 200,000 users. The dataset is ideal for analysis as it 
+3 million grocery orders from more than 200,000 users. The [Dataset](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data) is ideal for analysis as it 
 provides user-specific purchase history and captures purchase sequence, re-ordered items, and order 
 placement times. Previous work in this domain has utilized association rule algorithms and regression 
 models. In this project, we will build on these approaches to identify frequently purchased items, 
