@@ -179,6 +179,6 @@ Technology (ICIT), Amman, Jordan, 2021, pp. 126-131, doi: 10.1109/ICIT52682.2021
 </p>
 ''', unsafe_allow_html=True)
 
-st.markdown("[Link to Youtube Video](https://ieeexplore.ieee.org/document/7092091)")
+st.markdown("[https://ieeexplore.ieee.org/document/7092091](https://ieeexplore.ieee.org/document/7092091)")
 
 
