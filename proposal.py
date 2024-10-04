@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 st.markdown("""
     <style>
@@ -21,7 +20,7 @@ Boosting sales hinges on strategies spanning effective product placement, effici
 that ensures product availability, and compelling promotions to induce customers to buy more. 
 Analyzing purchase history can reveal valuable insights that are often not intuitive, 
 such as the surprising correlation between diapers and beer found in a case study.
-</p>
+</p> 
 <p class="justified-text">
 Instacart, a popular grocery ordering platform, has open-sourced their anonymized transactional data spanning 
 3 million grocery orders from more than 200,000 users. The dataset is ideal for analysis as it 
@@ -31,7 +30,6 @@ models. In this project, we will build on these approaches to identify frequentl
 re-ordering patterns, peak purchase times, and other trends.
 </p>
 ''', unsafe_allow_html=True)
-
 
 st.header("Problem Definition")
 st.markdown('''
@@ -172,7 +170,6 @@ st.markdown('''
 </table>
 ''', unsafe_allow_html=True)
 
-
 #----- Proposal Video ------
-st.header("Methods")
+st.header("Proposal Video")
 st.markdown("[Link to Youtube Video](https://docs.google.com/spreadsheets/d/1IR-oKyq-mOu6G73dS3AN7w5Xej8zgJ7I/edit?usp=sharing&ouid=110666483241984863961&rtpof=true&sd=true)")
