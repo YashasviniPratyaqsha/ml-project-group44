@@ -9,15 +9,6 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# data = {
-#     'Name': ['Aparna Manoj', 'Benjamin Jiras', 'Nitin Chawla', 'Sarika Singh', 'Yashasvini Pratyaqsha'],
-#     'Project Proposal': ['Presentation\nVideo Recording', '', '', '', 'Streamlit Setup \n Video Recording'],
-#     'Midtrem Report': ['TBD', 'TBD', 'TBD', 'TBD', 'TBD'],
-#     'Final Presentation': ['TBD', 'TBD', 'TBD', 'TBD', 'TBD']
-# }
-
-# df = pd.DataFrame(data)
-
 st.title('Project Proposal')
 
 #----- Introduction ------
@@ -128,8 +119,11 @@ st.markdown("""
         border: 1px solid #ddd;
     }
     th {
-        background-color: #f2f2f2;
+        background-color: #343a40;;
+        color: white;
         font-weight: bold;
+        font-size: 18px;
+        padding: 15px;
     }
     </style>
 """, unsafe_allow_html=True)
