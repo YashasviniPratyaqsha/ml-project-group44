@@ -20,8 +20,10 @@ In today's competitive retail landscape, customers have no dearth of options.
 Boosting sales hinges on strategies spanning effective product placement, efficient inventory management 
 that ensures product availability, and compelling promotions to induce customers to buy more. 
 Analyzing purchase history can reveal valuable insights that are often not intuitive, 
-such as the surprising correlation between diapers and beer found in a case study. Instacart, 
-a popular grocery ordering platform, has open-sourced their anonymized transactional data spanning 
+such as the surprising correlation between diapers and beer found in a case study.
+</p>
+<p class="justified-text">
+Instacart, a popular grocery ordering platform, has open-sourced their anonymized transactional data spanning 
 3 million grocery orders from more than 200,000 users. The dataset is ideal for analysis as it 
 provides user-specific purchase history and captures purchase sequence, re-ordered items, and order 
 placement times. Previous work in this domain has utilized association rule algorithms and regression 
@@ -29,6 +31,7 @@ models. In this project, we will build on these approaches to identify frequentl
 re-ordering patterns, peak purchase times, and other trends.
 </p>
 ''', unsafe_allow_html=True)
+
 
 st.header("Problem Definition")
 st.markdown('''
@@ -168,3 +171,8 @@ st.markdown('''
     </tr>
 </table>
 ''', unsafe_allow_html=True)
+
+
+#----- Proposal Video ------
+st.header("Methods")
+st.markdown("[Link to Youtube Video](https://docs.google.com/spreadsheets/d/1IR-oKyq-mOu6G73dS3AN7w5Xej8zgJ7I/edit?usp=sharing&ouid=110666483241984863961&rtpof=true&sd=true)")
