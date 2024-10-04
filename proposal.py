@@ -165,4 +165,20 @@ st.markdown("[Link to Youtube Video](https://docs.google.com/spreadsheets/d/1IR-
 
 #----- References ------
 st.header("References")
+st.markdown('''
+<p class="justified-text">
+A. Bhargav, R. P. Mathur and M. Bhargav, "Market basket analysis using artificial neural network," International Conference for Convergence 
+for Technology-2014, Pune, India, 2014, pp. 1-6, doi: 10.1109/I2CT.2014.7092091.
+</p>
+''', unsafe_allow_html=True)
+
+st.markdown('''
+<p class="justified-text">
+T. Lim, "K-Means Clustering-Based Market Basket Analysis: U.K. Online E-Commerce Retailer," 2021 International Conference on Information 
+Technology (ICIT), Amman, Jordan, 2021, pp. 126-131, doi: 10.1109/ICIT52682.2021.9491703. 
+</p>
+''', unsafe_allow_html=True)
+
+st.markdown("[Link to Youtube Video](https://ieeexplore.ieee.org/document/7092091)")
+
 
