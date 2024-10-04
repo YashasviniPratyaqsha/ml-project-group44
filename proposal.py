@@ -100,6 +100,7 @@ Treating the reorder prediction as a classification problem of whether a product
 
 #----- Group Gantt Chart ------
 st.header("Group Gantt Chart")
+st.image("https://github.com/YashasviniPratyaqsha/ml-project-group44/blob/main/Gantt%20Chart.png", caption="", use_column_width=True)
 st.markdown("[Link to Gantt Chart](https://docs.google.com/spreadsheets/d/1IR-oKyq-mOu6G73dS3AN7w5Xej8zgJ7I/edit?usp=sharing&ouid=110666483241984863961&rtpof=true&sd=true)")
 
 
