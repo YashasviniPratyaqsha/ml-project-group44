@@ -31,6 +31,8 @@ re-ordering patterns, peak purchase times, and other trends.
 </p>
 ''', unsafe_allow_html=True)
 
+
+#----- Problem Definition ------
 st.header("Problem Definition")
 st.markdown('''
 <p class="justified-text">
@@ -94,6 +96,23 @@ st.markdown('''
 <p class="justified-text">
 Treating the reorder prediction as a classification problem of whether a product exists in the future order
             or not, we will employ classification models like XGBoost and Neural Networks.
+</p>
+''', unsafe_allow_html=True)
+
+#----- Potential Results ------
+
+st.header('Potential Results')
+st.markdown('''
+<p class="justified-text">
+We’ve chosen these specific metrics to directly measure the success of our goal of predicting potential basket orders. To that end, 
+we will analyze the effectiveness of our clustering algorithms in grouping similar customer behaviors, involving a qualitative assessment 
+of the clusters that we form. In order to predict product re-orders, we’ll use standard classification metrics like the accuracy (overall
+average converging on desired result), precision (not much variation in outcomes from each other), confusion matrix, recall, and F1-score 
+to evaluate the performance of our classification models. For purchase trend discovery, we’ll use clustering and assess them based on their 
+interpretability. We hope to achieve a high F1-score to demonstrate our implementation’s predictive power for the product re-orders. We also
+anticipate low rates of false positives and false negatives, which in a real-world implementation (say if we were bought out by Instacart) would
+incur unnecessary inventory costs and hurt sales. We aim to identify meaningful customer clusters based on our analysis, driving insights for 
+targeted marketing and product recommendations.
 </p>
 ''', unsafe_allow_html=True)
 
