@@ -181,4 +181,12 @@ Technology (ICIT), Amman, Jordan, 2021, pp. 126-131, doi: 10.1109/ICIT52682.2021
 
 st.markdown("[https://ieeexplore.ieee.org/document/7092091](https://ieeexplore.ieee.org/document/7092091)")
 
+st.markdown('''
+<p class="justified-text">
+P. Sirohi, N. Singhal, P. Kumar and M. Alam, "Leveraging knowledge of Previous Baskets to Anticipate online Buyer Behaviour," 2023 
+International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT), Faridabad, India, 2023, pp. 968-973,
+doi: 10.1109/ICAICCIT60255.2023.10465793.
+</p>
+''', unsafe_allow_html=True)
+
 
