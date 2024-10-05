@@ -180,7 +180,7 @@ st.markdown('''
 
 #----- Proposal Video ------
 st.header("Proposal Video")
-st.markdown("[Link to Youtube Video](https://docs.google.com/spreadsheets/d/1IR-oKyq-mOu6G73dS3AN7w5Xej8zgJ7I/edit?usp=sharing&ouid=110666483241984863961&rtpof=true&sd=true)")
+st.markdown("[Link to Youtube Video](https://www.youtube.com/watch?v=MWJNMFsNEYY)")
 
 #----- References ------
 st.header("References")
