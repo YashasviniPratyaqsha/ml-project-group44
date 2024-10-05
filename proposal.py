@@ -91,6 +91,7 @@ To identify purchasing patterns, we will leverage the aisle and department infor
             as an additional feature to the classification models (T. Lim, 2021).
 </p>
 ''', unsafe_allow_html=True)
+
 st.subheader("Product Re-order Prediction")
 st.markdown('''
 <p class="justified-text">
