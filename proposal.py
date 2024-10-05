@@ -195,7 +195,7 @@ https://tdwi.org/articles/2016/11/15/beer-and-diapers-impossible-correlation.asp
 st.markdown('''
 <p class="justified-text">
 A. Bhargav, R. P. Mathur and M. Bhargav, "Market basket analysis using artificial neural network," International Conference for Convergence 
-for Technology-2014, Pune, India, 2014, pp. 1-6, doi: 10.1109/I2CT.2014.7092091.
+for Technology-2014, Pune, India, 2014, pp. 1-6, doi: 10.1109/I2CT.2014.7092091. https://ieeexplore.ieee.org/document/7092091.
 </p>
 ''', unsafe_allow_html=True)
 
@@ -206,7 +206,7 @@ Technology (ICIT), Amman, Jordan, 2021, pp. 126-131, doi: 10.1109/ICIT52682.2021
 </p>
 ''', unsafe_allow_html=True)
 
-st.markdown("[https://ieeexplore.ieee.org/document/7092091](https://ieeexplore.ieee.org/document/7092091)")
+# st.markdown("[https://ieeexplore.ieee.org/document/7092091](https://ieeexplore.ieee.org/document/7092091)")
 
 st.markdown('''
 <p class="justified-text">
