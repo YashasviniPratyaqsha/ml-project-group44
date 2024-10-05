@@ -88,8 +88,7 @@ st.markdown('''
 <p class="justified-text">
 To identify purchasing patterns, we will leverage the aisle and department information to create customer 
             clusters. These clusters would signify the customer’s product purchase habits and would serve 
-            as an additional feature to the classification models(T. Lim, 2021).
-</p>
+            as an additional feature to the classification models (T. Lim, 2021). </p>
 ''', unsafe_allow_html=True)
 
 st.subheader("Product Re-order Prediction")
