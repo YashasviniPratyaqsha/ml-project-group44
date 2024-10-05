@@ -12,7 +12,7 @@ st.title('Project Proposal')
 
 #----- Introduction ------
 
-st.header('Introduction')
+st.header('Introduction/Background')
 st.markdown('''
 <p class="justified-text">
 In today's competitive retail landscape, customers have no dearth of options. 
