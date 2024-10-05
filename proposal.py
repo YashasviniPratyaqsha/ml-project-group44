@@ -95,7 +95,7 @@ st.subheader("Product Re-order Prediction")
 st.markdown('''
 <p class="justified-text">
 Treating the reorder prediction as a classification problem of whether a product exists in the future order
-            or not, we will employ classification models like XGBoost and Neural Networks.
+            or not, we will employ classification models like Gradient Boosted Trees and Neural Networks.
 </p>
 ''', unsafe_allow_html=True)
 
