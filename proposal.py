@@ -184,6 +184,14 @@ st.markdown("[Link to Youtube Video](https://docs.google.com/spreadsheets/d/1IR-
 
 #----- References ------
 st.header("References")
+
+st.markdown('''
+<p class="justified-text">
+Swoyer, S. (2016, November 15).  Beer and diapers: The impossible correlation. TDWI. 
+https://tdwi.org/articles/2016/11/15/beer-and-diapers-impossible-correlation.aspx
+</p>
+''', unsafe_allow_html=True)
+
 st.markdown('''
 <p class="justified-text">
 A. Bhargav, R. P. Mathur and M. Bhargav, "Market basket analysis using artificial neural network," International Conference for Convergence 
