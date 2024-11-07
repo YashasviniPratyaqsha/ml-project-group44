@@ -13,3 +13,4 @@ Streamlit file for Project Proposal - https://ml-project-group44-hfqtmft8fwq5kzb
    ```
    $ streamlit run proposal.py
    ```
+3. The work associated with the project is detailed on the website
