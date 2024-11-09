@@ -17,6 +17,8 @@ st.markdown('''
 <p class="justified-text">
 Feature engineering is essential to come up with meaningful features that capture product-specific, user-centric insights from the 
 raw transactional data. The main broad categories of the features explored are:
+</p>
+<p class="justified-text">
 1. <strong>Product-Level Features</strong> - 
     Aims to capture the popularity and purchase trends for a product.
     Sample Features: reorder percentage, number of unique buyers, etc
